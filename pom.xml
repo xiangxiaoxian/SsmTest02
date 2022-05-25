@@ -29,7 +29,7 @@
         <maven.compiler.encoding>UTF-8</maven.compiler.encoding>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <!-- spring版本号 -->
-        <spring.version>4.0.2.RELEASE</spring.version>
+        <spring.version>5.2.22.RELEASE</spring.version>
         <!--  &lt;!&ndash; log4j日志文件管理包版本 &ndash;&gt;
           <slf4j.version>1.7.7</slf4j.version>
           <log4j.version>1.2.17</log4j.version>-->
